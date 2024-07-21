@@ -1,11 +1,11 @@
 ---
 Language: Cpp
-BasedOnStyle: Chromium 
+BasedOnStyle: Chromium
 
 AccessModifierOffset: -4
 IndentWidth: 4
 UseTab: Never
-ColumnLimit: 120
+ColumnLimit: 0
 
 KeepEmptyLinesAtTheStartOfBlocks: true
 
